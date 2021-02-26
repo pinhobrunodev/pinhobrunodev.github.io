@@ -25,7 +25,9 @@ body{
 }
 
 .body01 a :hover {
-    background-color: #e387fa;
+    transition: transform .2s; 
+    transform: scale(1.5);
+    background-color: #fff;
     padding: 0.25em 0.25em;
     display: inline-block;
     text-decoration: none;
