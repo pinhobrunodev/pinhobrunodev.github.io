@@ -1,0 +1,41 @@
+body{
+ 
+    background-image: linear-gradient(to bottom right, rgb(230, 18, 18), blue);
+   
+}
+
+
+.body01{
+    margin-top:30px;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    align-content: center;
+    margin-left: 250px;
+    text-align: center;
+    margin-right: 250px;
+    padding: 10px;
+    padding-bottom: 50px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.body01 ol li{
+    display: inline-block;
+}
+
+.body01 a :hover {
+    background-color: #e387fa;
+   
+    padding: 2px 2px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+
+
+
+ol{
+    list-style-type: none;
+}
+
