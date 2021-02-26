@@ -26,15 +26,18 @@ body{
 
 .body01 a :hover {
     background-color: #e387fa;
-   
-    padding: 2px 2px;
+    padding: 0.25em 0.25em;
     display: inline-block;
     text-decoration: none;
 }
 
+.body01 a{
+    margin: 0 0.25em 0 0.25em;
+}
 
 
 
 ol{
     list-style-type: none;
 }
+
